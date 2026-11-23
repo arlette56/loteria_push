@@ -1,0 +1,1 @@
+﻿{"name":"loteria-push-servidor","version":"1.0.0","main":"servidor.js","scripts":{"start":"node servidor.js","test":"node --test"},"engines":{"node":">=20"}}
